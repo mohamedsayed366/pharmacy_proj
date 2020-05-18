@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>921c2e3c-f72d-4adf-b868-2b303115268e</Identity>
+    <Start>2020-05-16T23:29:19.0538433+02:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>15.0.4573.2</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2012 - 11.0.2318.0 (X64) 
+	Apr 19 2012 11:53:44 
+	Copyright (c) Microsoft Corporation
+	Express Edition (64-bit) on Windows NT 6.2 &lt;X64&gt; (Build 9200: )
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <ForeignKeyConstraint>2</ForeignKeyConstraint>
+      <Index>2</Index>
+      <PrimaryKeyConstraint>5</PrimaryKeyConstraint>
+      <SimpleColumn>22</SimpleColumn>
+      <Table>5</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>3176</SourceDatabaseSize>
+    <TableRowCountTotalTag>14</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">DC029E5864BF99A90C9A027803E46CD49F5038FFDC7250CB5D168A33B84BCC9A</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.5</ModelSchemaVersion>
+</DacOrigin>
