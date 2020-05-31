@@ -1,0 +1,268 @@
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Pharma.dll.config
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Pharma.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Pharma.pdb
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csc.exe
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csc.exe.config
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csc.rsp
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csi.exe
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csi.exe.config
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\csi.rsp
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.AppContext.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Console.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.IO.Compression.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Net.Http.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.ValueTuple.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\vbc.exe
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\vbc.exe.config
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\vbc.rsp
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\VBCSCompiler.exe
+C:\Users\moham\source\repos\Pharma\Pharma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Antlr3.Runtime.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\EntityFramework.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\EntityFramework.SqlServer.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Newtonsoft.Json.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Helpers.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Mvc.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Optimization.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Razor.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.Razor.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\WebGrease.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\EntityFramework.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\EntityFramework.SqlServer.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Helpers.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Mvc.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Optimization.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.Razor.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\System.Web.WebPages.Razor.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Newtonsoft.Json.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Antlr3.Runtime.pdb
+C:\Users\moham\source\repos\Pharma\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.csproj.CopyComplete
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.dll
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.pdb
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.Migrations.update.resources
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\Pharma\Pharma\obj\Debug\Pharma.Migrations.update4.resources
+C:\Users\moham\source\repos\Pharma\Pharma\bin\PagedList.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\PagedList.Mvc.dll
+C:\Users\moham\source\repos\Pharma\Pharma\bin\PagedList.xml
+C:\Users\moham\source\repos\Pharma\Pharma\bin\PagedList.Mvc.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Pharma.dll.config
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Pharma.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Pharma.pdb
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csc.exe
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csc.exe.config
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csc.rsp
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csi.exe
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csi.exe.config
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\csi.rsp
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.AppContext.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Collections.Immutable.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Console.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.IO.Compression.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.IO.FileSystem.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Net.Http.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Net.Sockets.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.ValueTuple.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Xml.XPath.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\vbc.exe
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\vbc.exe.config
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\vbc.rsp
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\VBCSCompiler.exe
+D:\Sw Project\Pharma elevnth part\Pharma\bin\roslyn\VBCSCompiler.exe.config
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Antlr3.Runtime.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\EntityFramework.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\EntityFramework.SqlServer.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Microsoft.Web.Infrastructure.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Newtonsoft.Json.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\PagedList.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\PagedList.Mvc.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Helpers.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Mvc.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Optimization.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Razor.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.Deployment.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.Razor.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\WebGrease.dll
+D:\Sw Project\Pharma elevnth part\Pharma\bin\EntityFramework.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\EntityFramework.SqlServer.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\PagedList.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\PagedList.Mvc.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Helpers.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Mvc.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Optimization.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.Razor.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.Deployment.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\System.Web.WebPages.Razor.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Newtonsoft.Json.xml
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Antlr3.Runtime.pdb
+D:\Sw Project\Pharma elevnth part\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.csprojAssemblyReference.cache
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.Migrations.update.resources
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.Migrations.update4.resources
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.csproj.GenerateResource.cache
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.csproj.CopyComplete
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.dll
+D:\Sw Project\Pharma elevnth part\Pharma\obj\Debug\Pharma.pdb
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Pharma.dll.config
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Pharma.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Pharma.pdb
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csc.exe
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csc.exe.config
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csc.rsp
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csi.exe
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csi.exe.config
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\csi.rsp
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.AppContext.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Collections.Immutable.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Console.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.IO.Compression.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.IO.FileSystem.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Net.Http.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Net.Sockets.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.ValueTuple.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Xml.XPath.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\vbc.exe
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\vbc.exe.config
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\vbc.rsp
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\VBCSCompiler.exe
+D:\Sw Project\Pharma Twelve part\Pharma\bin\roslyn\VBCSCompiler.exe.config
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Antlr3.Runtime.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\EntityFramework.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\EntityFramework.SqlServer.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Microsoft.Web.Infrastructure.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Newtonsoft.Json.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\PagedList.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\PagedList.Mvc.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Helpers.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Mvc.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Optimization.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Razor.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.Deployment.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.Razor.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\WebGrease.dll
+D:\Sw Project\Pharma Twelve part\Pharma\bin\EntityFramework.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\EntityFramework.SqlServer.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\PagedList.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\PagedList.Mvc.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Helpers.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Mvc.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Optimization.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.Razor.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.Deployment.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\System.Web.WebPages.Razor.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Newtonsoft.Json.xml
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Antlr3.Runtime.pdb
+D:\Sw Project\Pharma Twelve part\Pharma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.csprojAssemblyReference.cache
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.Migrations.update.resources
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.Migrations.update4.resources
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.csproj.GenerateResource.cache
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.csproj.CopyComplete
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.dll
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.pdb
+D:\Sw Project\Pharma Twelve part\Pharma\obj\Debug\Pharma.Migrations.addCartModule.resources
