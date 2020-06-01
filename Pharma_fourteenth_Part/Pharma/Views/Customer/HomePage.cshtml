@@ -1,0 +1,48 @@
+﻿@model PagedList.IPagedList<Pharma.Models.Product>
+@using PagedList.Mvc;
+
+
+
+
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_User.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@using (Html.BeginForm())
+{<p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>}
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-2 col-md-4 col-sm-6">
+            <div class="thumbnail" style="width:180px;height:310px;background-color:ghostwhite;padding:15px">
+                <a href="@Url.Action("Details", "Product", new { id = item.Id })" title="Edit">
+                    <img src="@Url.Content(item.Image)" class="img-fluid" style="max-height:150px;max-width:150px">
+                </a>
+                <div class="caption">
+                    <h3>@item.Name</h3>
+                    <p>@item.Price</p>
+
+
+                    <p>  @Html.ActionLink("Add To Cart", "AddToCart", "Cart", new { id = item.Id }, new { @class = "btn btn-primary" }) </p>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
